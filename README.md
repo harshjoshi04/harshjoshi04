@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on my skills  
   
 
-- 🌱 I’m currently learning  new technologys  
+- 🌱 I’m currently learning  new technologies    
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
