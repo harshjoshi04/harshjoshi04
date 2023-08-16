@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Joshi</h1>
 <h3 align="center">a full-time full-stack freelance developer</h3>
 
-- 🔭 I’m currently working on [my skills]
+- 🔭 I’m currently working on **my skills**
 
 - 🌱 I’m currently learning **new technologys**
 
