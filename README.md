@@ -13,7 +13,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I play game a lot  
+- ⚡ Fun fact: I play a lot of games 
   
 
 <br/>  
